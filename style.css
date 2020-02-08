@@ -19,7 +19,7 @@ body{
 }
 
 h1{
-    color: grey;
+    color: #333;
 }
 
 h2,h3{
@@ -40,8 +40,8 @@ header h1{
 }
 
 header span{
-    font-size: 1.5em;
-    color: #999;
+    font-size: 1.8em;
+    color: #222;
 }
 
 #photoContainer {
@@ -56,7 +56,6 @@ header span{
     width: 220px;
     height: 300px;
 }
-
 #quizPic {
     max-height: 130px;
 }
